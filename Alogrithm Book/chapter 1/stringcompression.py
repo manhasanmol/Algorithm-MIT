@@ -1,3 +1,4 @@
+#string and array question approach 
 class Solution:
     def compress(self, chars):
         if len(chars) <= 1:
