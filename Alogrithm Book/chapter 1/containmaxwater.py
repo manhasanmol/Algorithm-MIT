@@ -1,3 +1,4 @@
+# two pointer method used
 class Solution:
     def maxArea(self, height):
         if len(height) > 1:
